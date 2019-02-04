@@ -46,4 +46,26 @@ https://www.23andme.com/about/privacy/
 Verily
 https://verily.com/privacy/
 
+3. Participation Agreement
+CMS PARTICIPATION AGREEMENT
+https://www.cms.gov/Medicare/CMS-Forms/CMS-Forms/Downloads/CMS460.pdf
+
+HEALTH CARE SERVICE PROVIDER AGREEMENT
+https://www.usamco.com/assets/provider-agreement-usa152ha.pdf
+
+https://www.ohanahealthplan.com/WCAssets/hawaii/assets/HI-FAC-MCD-FFS_(FINAL).pdf 
+
+4. Trusted Referee Agrement
+ Health GOV 
+ https://www.healthit.gov/topic/interoperability/trusted-exchange-framework-and-common-agreement
+ 
+ ONC draft of trusted exchange framework 
+ https://www.healthit.gov/sites/default/files/draft-trusted-exchange-framework.pdf
+ 
+ https://www.healthit.gov/sites/default/files/draft-guide.pdf
+ 
+ 
+
+
+
 
