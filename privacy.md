@@ -59,5 +59,6 @@ We may employ third-party companies and individuals for the following reasons:
 * To assist us in analyzing how our Service is used.
 
 These third parties may have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, we will ensure that they are obligated not to disclose or use the information for any other purpose, and that they will have the same (or stricter) obligations with respect to your Personal Information as we do.
-Changes to This Notice
+
+#### **Changes to This Notice**
 We reserve the right to change the terms of this Policy and to make new notice provisions effective for all PI and PHI that we maintain. If you are a user of our Services, you will receive a notice of change, but you may also request this information by contacting [CONTACT DETAILS].
