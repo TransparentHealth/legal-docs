@@ -12,7 +12,14 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 [PHI Collection and Use](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#phi-collection-and-use)
 * [Ways in wich we may use your PHI](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#ways-in-which-we-may-use-your-phi)
- 
+[HIPPA Rights and Policies()
+[PI Information Collection and Use]()
+[Log Data]()
+[Cookies]()
+[Serivice Providers]()
+[Changes to This Notice]()
+
+
 #### **PHI Collection and Use**
 During the course of using our Service, we may obtain your PHI. PHI includes information about your past, present or future health, healthcare we provide you, Our privacy practices concerning your PHI are as follows:
 * We will safeguard the privacy of health information that we have created or received as required by law.
@@ -34,7 +41,7 @@ During the course of using our Service, we may obtain your PHI. PHI includes inf
 
 You may request a copy of your PHI records by [CONTACT DETAILS].
 
-#### **HIPAA rights and policies**
+#### **HIPAA Rights and Policies**
 Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), the federal government granted patient’s more control over their own PHI. Among the rights HIPAA grants you are the rights:
 * To inspect and obtain a copy of your PHI.
 * To request that AFBH amend health information in your records.
