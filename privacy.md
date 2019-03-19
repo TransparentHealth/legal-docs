@@ -29,7 +29,7 @@ During the course of using our Service, we may obtain your PHI. PHI includes inf
 ##### Ways in which we may use your PHI
 
 * For your treatment. 
-* For your <font color="red"> payment </font>
+* For your <font color="red">payment</font>
 * For AFBH operational assessment and improvement. 
 * To communicate with you. 
 * In conjunction with Business Associates.  
