@@ -1,6 +1,6 @@
-### **Alliance for Better Health Privacy Policy**
+# **Alliance for Better Health Privacy Policy**
 
-### **Effective Date [DATE]**
+## **Effective Date [DATE]**
 
 This document sets forth Alliance for Better Health’s [NAME] (the “Service”) policies regarding the collection, use, and disclosure of Personal Information (“PI”) and Protected Health Information (“PHI”) for individuals like you, who use our Service. Throughout this document, Alliance for Better Health is referred to as “AFBH, “us,” or “we.”
 
@@ -8,11 +8,9 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible [Github](hhtp://github.com) (here), unless otherwise defined in this Privacy Policy.
 
-#### **Table Of Contents**
+### **Table Of Contents**
 
-[PHI Collection and Use](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#phi-collection-and-use)
-* [Ways in wich we may use your PHI](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#ways-in-which-we-may-use-your-phi)
-
+[PHI Collection and Use](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#phi-collection-and-use)<br/>
 [HIPPA Rights and Policies](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#hipaa-rights-and-policies)<br/>
 [PI Information Collection and Use](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#pi-information-collection-and-use)<br/>
 [Log Data](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#log-data)<br/>
