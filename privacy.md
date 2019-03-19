@@ -1,6 +1,6 @@
 # **Alliance for Better Health Privacy Policy**
 
-## **Effective Date '[DATE]'**
+## **Effective Date "[DATE]"**
 
 This document sets forth Alliance for Better Health’s [NAME] (the “Service”) policies regarding the collection, use, and disclosure of Personal Information (“PI”) and Protected Health Information (“PHI”) for individuals like you, who use our Service. Throughout this document, Alliance for Better Health is referred to as “AFBH, “us,” or “we.”
 
@@ -29,7 +29,7 @@ During the course of using our Service, we may obtain your PHI. PHI includes inf
 ##### Ways in which we may use your PHI
 
 * For your treatment. 
-* For your **payment**.
+* For your '''payment'''.
 * For AFBH operational assessment and improvement. 
 * To communicate with you. 
 * In conjunction with Business Associates.  
