@@ -12,7 +12,8 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 [PHI Collection and Use](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#phi-collection-and-use)
 * [Ways in wich we may use your PHI](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#ways-in-which-we-may-use-your-phi)
-[HIPPA Rights and Policies](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#hipaa-rights-and-policies) *same paragraph* 
+
+[HIPPA Rights and Policies](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#hipaa-rights-and-policies) 
 [PI Information Collection and Use](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#pi-information-collection-and-use) 
 [Log Data](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#log-data) 
 [Cookies](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#cookies) 
