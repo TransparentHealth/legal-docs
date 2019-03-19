@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 #### **Table Of Contents**
 
-[PHI Collection and Use](link)
+[PHI Collection and Use](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#phi-collection-and-use
 [text}(link)
  
  
