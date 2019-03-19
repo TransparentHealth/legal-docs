@@ -11,7 +11,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 #### **Table Of Contents**
 
 [PHI Collection and Use](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#phi-collection-and-use)
-* [Ways in wich we may use your PHI]()
+* [Ways in wich we may use your PHI](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md#ways-in-which-we-may-use-your-phi)
  
 #### **PHI Collection and Use**
 During the course of using our Service, we may obtain your PHI. PHI includes information about your past, present or future health, healthcare we provide you, Our privacy practices concerning your PHI are as follows:
