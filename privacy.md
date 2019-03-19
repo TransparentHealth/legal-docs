@@ -8,6 +8,11 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible [Github](hhtp://github.com) (here), unless otherwise defined in this Privacy Policy.
 
+#### **Table Of Contents**
+
+#### Phi Collection and use 
+#### HIPPA Rights and Policies 
+
 #### **PHI Collection and Use**
 During the course of using our Service, we may obtain your PHI. PHI includes information about your past, present or future health, healthcare we provide you, Our privacy practices concerning your PHI are as follows:
 * We will safeguard the privacy of health information that we have created or received as required by law.
