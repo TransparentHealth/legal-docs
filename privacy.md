@@ -6,7 +6,7 @@ This document sets forth Alliance for Better Health’s [NAME] (the “Service�
 
 If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible [Github](hhtp://github.com) (here), unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible [here](hhtp://github.com), unless otherwise defined in this Privacy Policy.
 
 ### **Table Of Contents**
 
@@ -38,7 +38,7 @@ During the course of using our Service, we may obtain your PHI. PHI includes inf
 * To avert a serious threat to health or safety 
 * Other public health risks 
 
-You may request a copy of your PHI records by [CONTACT DETAILS].
+> You may request a copy of your PHI records by [CONTACT DETAILS].
 
 #### **HIPAA Rights and Policies**
 Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), the federal government granted patient’s more control over their own PHI. Among the rights HIPAA grants you are the rights:
@@ -72,4 +72,4 @@ We may employ third-party companies and individuals for the following reasons:
 These third parties may have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, we will ensure that they are obligated not to disclose or use the information for any other purpose, and that they will have the same (or stricter) obligations with respect to your Personal Information as we do.
 
 #### **Changes to This Notice**
-We reserve the right to change the terms of this Policy and to make new notice provisions effective for all PI and PHI that we maintain. If you are a user of our Services, you will receive a notice of change, but you may also request this information by contacting [CONTACT DETAILS].
+We reserve the right to change the terms of this Policy and to make new notice provisions effective for all PI and PHI that we maintain. If you are a user of our Services, you will receive a notice of change, but you may also request this information by > contacting [CONTACT DETAILS].
