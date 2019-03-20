@@ -49,7 +49,7 @@ Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), t
 * To request how and where we may contact you about medical matters.
 * To receive a written notice of how we may use your PHI.
 
-You may request any of these by contacting [CONTACT DETAILS].
+> You may request any of these by contacting [CONTACT DETAILS].
 
 #### **PI Information Collection and Use**
 For a better experience while using our Service, we may require you to provide us with certain PI, including but not limited to your name, phone number, email, and postal address. The information that we collect will be used to contact or identify you.
