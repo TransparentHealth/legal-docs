@@ -1,20 +1,26 @@
 In addition to the end-user agreement, this content will cover extra information for a Member\beneficary.
 
-AFBH [NAME] TERMS & CONDITIONS
+## **AFBH [NAME] TERMS & CONDITIONS**
 
-Effective Date: [DATE]
+### **Effective Date: [DATE]**
 
 The Alliance for Better Health (“AFBH”) electronic chart service ("[NAME]") is provided solely for the convenience of patients of AFBH. Your access to and use of [NAME] is subject to and governed by these Terms and Conditions of Use ("Terms and Conditions" or "Agreement") and applicable law, rules and regulations. Throughout this Agreement, AFBH is collectively referred to as “AFBH,” "we," or "us." Throughout this Agreement, users of [NAME] will be referred to as "you" or "Users".
-Please read this Agreement and our ("Privacy Policy") carefully before signing up for, accessing or using [NAME]. If you do not agree to these Terms and Conditions or our Privacy Policy, please exit the [NAME] site (the "Site").
-NEVER USE [NAME] FOR EMERGENCY OR OTHER URGENT MEDICAL ISSUES. IF YOU ARE EXPERIENCING A MEDICAL EMERGENCY OR NEED URGENT MEDICAL CARE, IMMEDIATELY CALL 911 (IF YOU ARE IN THE UNITED STATES), GO TO YOUR LOCAL EMERGENCY ROOM, AND/OR CALL YOUR PHYSICIAN.
-ALL HEALTH AND HEALTH-RELATED INFORMATION IN [NAME] IS INTENDED TO BE GENERAL IN NATURE, PROVIDED SOLELY FOR AFBH PATIENT CONVENIENCE, AND IS NOT A SUBSTITUTE FOR A VISIT TO A LICENSED HEALTHCARE PROVIDER. PLEASE SEE YOUR PHYSICIAN, NOT [NAME], FOR ALL MEDICAL ADVICE AND CARE.
-[NAME] Terms and Conditions
+
+**Please read this Agreement and our** ("Privacy Policy") carefully before signing up for, accessing or using [NAME]. If you do not agree to these Terms and Conditions or our Privacy Policy, please exit the [NAME] site (the "Site").
+
+**NEVER USE [NAME] FOR EMERGENCY OR OTHER URGENT MEDICAL ISSUES. IF YOU ARE EXPERIENCING A MEDICAL EMERGENCY OR NEED URGENT MEDICAL CARE, IMMEDIATELY CALL 911 (IF YOU ARE IN THE UNITED STATES), GO TO YOUR LOCAL EMERGENCY ROOM, AND/OR CALL YOUR PHYSICIAN.
+ALL HEALTH AND HEALTH-RELATED INFORMATION IN [NAME] IS INTENDED TO BE GENERAL IN NATURE, PROVIDED SOLELY FOR AFBH PATIENT CONVENIENCE, AND IS NOT A SUBSTITUTE FOR A VISIT TO A LICENSED HEALTHCARE PROVIDER. PLEASE SEE YOUR PHYSICIAN, NOT [NAME], FOR ALL MEDICAL ADVICE AND CARE.**
+
+**[NAME] Terms and Conditions**
+
 [NAME] currently provides a convenient way for you to do the following, subject to these Terms and Conditions and applicable law, rules and regulations:
-    • Have Web-based, end-user, read-only access to portions of your AFBH health information;
-    • Use secure messaging to communicate with AFBH healthcare providers about your health; receive select lab results from your AFBH physician; review, make or cancel your AFBH health appointments, or request your prescription refills, subject to applicable law, rules and regulations and AFBH policies, procedures and other requirements;
-    • View and pay your AFBH health bills online; and
-    • Access other general health information that may be of interest to you on certain third party sites
-Please note: [NAME] is not your complete medical record, nor is it your official AFBH medical record. You may request an official copy of or an amendment to your official AFBH medical record by contacting AFBH at the [details].
+* Have Web-based, end-user, read-only access to portions of your AFBH health information;
+* Use secure messaging to communicate with AFBH healthcare providers about your health; receive select lab results from your AFBH physician; review, make or cancel your AFBH health appointments, or request your prescription refills, subject to applicable law, rules and regulations and AFBH policies, procedures and other requirements;
+* View and pay your AFBH health bills online; and
+* Access other general health information that may be of interest to you on certain third party sites
+
+**Please note**: [NAME] is not your complete medical record, nor is it your official AFBH medical record. You may request an official copy of or an amendment to your official AFBH medical record by contacting AFBH at the [details].
+
 By signing up for [NAME], you agree to comply with this Agreement and applicable law, rules and regulations. Your access to and use of [NAME] is subject to your agreement to these Terms and Conditions and such law, rules and regulations. The terms and conditions set forth in this Agreement may be viewed at any time by clicking the "Terms and Conditions" tab at the bottom of each page of the Site. In regard to [NAME] and this Site, where any provision(s) of this Agreement conflict with any other term, policy or condition published on or otherwise applicable to this Site or any other AFBH website, the relevant provision(s) of this Agreement shall control, prevail and be enforced.
 This Agreement constitutes the entire agreement between AFBH and you pertaining to the subject matter hereof. You understand and agree to enter into an electronic contract (ie, this Agreement), and that a paper record of this Agreement can be requested and obtained by writing to the following address: [contact info]. You can also withdraw your consent to these Terms and Conditions by writing to this same address, but then you will not be able to access or use [NAME].
 We have the right to modify this Agreement at any time, in our sole discretion. We will notify you when we modify this Agreement. You agree to re-review these Terms and Conditions and our Privacy Policy each time you receive notice of (or otherwise become aware of) these modifications. In general, modifications to these Terms and Conditions will not apply retroactively and will become effective no sooner than fourteen days after they are posted. However, modifications addressing new functions on [NAME], or made for legal reasons, will be effective on the date you are notified of them. Your continued use of [NAME] constitutes your acceptance of all of the modifications we have made. If you do not agree with our modifications to these Terms and Conditions or any of our changes to our Privacy Policy, you should discontinue your access and use of [NAME]. Neither the course of conduct between the parties nor trade practice shall act to modify any provision of this Agreement.
