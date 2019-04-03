@@ -27,7 +27,7 @@ ALL HEALTH AND HEALTH-RELATED INFORMATION IN [NAME] IS INTENDED TO BE GENERAL IN
 [Limitation of Liability; Release; Indemnity; Equitable Relief; Time Limit on Claims](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#limitation-of-liability-release-indemnity-equitable-relief-time-limit-on-claims)</br>
 [Choice of Law; Jurisdiction and Venue](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#choice-of-law-jurisdiction-and-venue)</br>
 [Notices](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#notices)</br> 
-Severability
+[Severability](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#severability)</br>
 Cumulative Remedies; Waiver
 Your Agreement 
 
