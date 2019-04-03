@@ -36,7 +36,7 @@ ALL HEALTH AND HEALTH-RELATED INFORMATION IN [NAME] IS INTENDED TO BE GENERAL IN
 [NAME] currently provides a convenient way for you to do the following, subject to these Terms and Conditions and applicable law, rules and regulations:
 * Have Web-based, end-user, read-only access to portions of your AFBH health information;
 * Use secure messaging to communicate with AFBH healthcare providers about your health; receive select lab results from your AFBH physician; review, make or cancel your AFBH health appointments, or request your prescription refills, subject to applicable law, rules and regulations and AFBH policies, procedures and other requirements;
-* View and pay your AFBH health bills online; and
+> * View and pay your AFBH health bills online; and
 * Access other general health information that may be of interest to you on certain third party sites
 
 #### **Please note**: 
