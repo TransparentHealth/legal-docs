@@ -58,19 +58,22 @@ You may use [NAME] to view your AFBH billing statements online and make online p
 **Medical Disclaimer**</br>
 [NAME] constitutes neither the practice of any medical, nursing or other health profession nor the provision of health care or any other professional advice, diagnosis or treatment. The information in [NAME] is not your complete, official medical record, nor should it be relied on in any way for medical decision-making or to suggest a course of treatment for you or anyone else. If you have or suspect that you have a medical problem or condition, call your physician. Never disregard medical advice or delay in seeking it because of something you have read in [NAME].
 
-**Users Agreement**<br/>
+**Users Agreement**</br>
 [NAME] is a voluntary offering from us, and you may elect to register for, or to not register for, a [NAME] account.
+
 You agree that you will:
-    • comply with these Terms and Conditions and all applicable laws, rules and regulations governing your access and use of [NAME];
-    • use reasonable efforts to learn how to use [NAME], and not rely solely on AFBH for assistance in doing so;
-    • not upload or transmit any communications or content of any type to [NAME] that infringes or violates any rights of any party;
-    • use [NAME] only in a manner that is considerate and respectful of your healthcare providers, and not to attack, bully, demean, harass, threaten, or otherwise act in a manner that is disrespectful of your healthcare providers;
-    • not use [NAME] as a means to distribute advertising or other unsolicited material to any third party;
-    • not post material to [NAME] that is unlawful, obscene, defamatory, threatening, harassing, abusive, slanderous, hateful or embarrassing to any other person or entity, infringing, explicit, or otherwise inconsistent with the spirit of these Terms and Conditions,
-    • not impersonate another person or create any false account information or record for yourself or others on [NAME];
-    • not attempt to test, probe, or circumvent any privacy, confidentiality, security or like measures protecting [NAME] or the foundation therein;
-    • periodically review and update the information you provide to us so that it is kept up-to-date;
-    • advise us of any suspected typographical errors, inaccuracies or other errors in any data, information or other material accessible or provided or located on or through [NAME].
+
+ * comply with these Terms and Conditions and all applicable laws, rules and regulations governing your access and use of [NAME];
+* use reasonable efforts to learn how to use [NAME], and not rely solely on AFBH for assistance in doing so;
+* not upload or transmit any communications or content of any type to [NAME] that infringes or violates any rights of any party;
+* use [NAME] only in a manner that is considerate and respectful of your healthcare providers, and not to attack, bully, demean, harass, threaten, or otherwise act in a manner that is disrespectful of your healthcare providers;
+* not use [NAME] as a means to distribute advertising or other unsolicited material to any third party;
+* not post material to [NAME] that is unlawful, obscene, defamatory, threatening, harassing, abusive, slanderous, hateful or embarrassing to any other person or entity, infringing, explicit, or otherwise inconsistent with the spirit of these Terms and Conditions,
+* not impersonate another person or create any false account information or record for yourself or others on [NAME];
+* not attempt to test, probe, or circumvent any privacy, confidentiality, security or like measures protecting [NAME] or the foundation therein;
+* periodically review and update the information you provide to us so that it is kept up-to-date;
+* advise us of any suspected typographical errors, inaccuracies or other errors in any data, information or other material accessible or provided or located on or through [NAME].
+
 You agree that, by creating a [NAME] account, you expressly consent to (a) using electronic communication methods to (i) accept these Terms and Conditions and (ii) post or email to you all notices provided pursuant to these terms, and (b) the use of electronic records to store information relating to your use of [NAME] and these Terms and Conditions.
 You represent and warrant to us that:
     • you are a AFBH patient or legally authorized to have proxy access for a AFBH patient;
