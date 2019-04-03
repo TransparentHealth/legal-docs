@@ -12,7 +12,7 @@ The Alliance for Better Health (“AFBH”) electronic chart service ("[NAME]") 
 ALL HEALTH AND HEALTH-RELATED INFORMATION IN [NAME] IS INTENDED TO BE GENERAL IN NATURE, PROVIDED SOLELY FOR AFBH PATIENT CONVENIENCE, AND IS NOT A SUBSTITUTE FOR A VISIT TO A LICENSED HEALTHCARE PROVIDER. PLEASE SEE YOUR PHYSICIAN, NOT [NAME], FOR ALL MEDICAL ADVICE AND CARE.**
 
 ### **Table Of contents**</br>
-Terms of Conditions
+[Terms of Conditions](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#table-of-contents)</br>
 Please Note
 Electronic Messaging and Enail Privacy
 Connevtivity to Personal Health and Other Technology
