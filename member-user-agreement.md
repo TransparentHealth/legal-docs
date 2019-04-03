@@ -19,7 +19,7 @@ ALL HEALTH AND HEALTH-RELATED INFORMATION IN [NAME] IS INTENDED TO BE GENERAL IN
 * View and pay your AFBH health bills online; and
 * Access other general health information that may be of interest to you on certain third party sites
 
-**Please note**: 
+**Please note**:</br> 
 [NAME] is not your complete medical record, nor is it your official AFBH medical record. You may request an official copy of or an amendment to your official AFBH medical record by contacting AFBH at the [details].
 
 By signing up for [NAME], you agree to comply with this Agreement and applicable law, rules and regulations. Your access to and use of [NAME] is subject to your agreement to these Terms and Conditions and such law, rules and regulations. The terms and conditions set forth in this Agreement may be viewed at any time by clicking the "Terms and Conditions" tab at the bottom of each page of the Site. In regard to [NAME] and this Site, where any provision(s) of this Agreement conflict with any other term, policy or condition published on or otherwise applicable to this Site or any other AFBH website, the relevant provision(s) of this Agreement shall control, prevail and be enforced.
