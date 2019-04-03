@@ -1,8 +1,8 @@
 In addition to the end-user agreement, this content will cover extra information for a Member\beneficary.
 
-## **AFBH [NAME] TERMS & CONDITIONS**
+# **AFBH [NAME] TERMS & CONDITIONS**
 
-### **Effective Date: [DATE]**
+## **Effective Date: [DATE]**
 
 The Alliance for Better Health (“AFBH”) electronic chart service ("[NAME]") is provided solely for the convenience of patients of AFBH. Your access to and use of [NAME] is subject to and governed by these Terms and Conditions of Use ("Terms and Conditions" or "Agreement") and applicable law, rules and regulations. Throughout this Agreement, AFBH is collectively referred to as “AFBH,” "we," or "us." Throughout this Agreement, users of [NAME] will be referred to as "you" or "Users".
 
@@ -11,7 +11,25 @@ The Alliance for Better Health (“AFBH”) electronic chart service ("[NAME]") 
 **NEVER USE [NAME] FOR EMERGENCY OR OTHER URGENT MEDICAL ISSUES. IF YOU ARE EXPERIENCING A MEDICAL EMERGENCY OR NEED URGENT MEDICAL CARE, IMMEDIATELY CALL 911 (IF YOU ARE IN THE UNITED STATES), GO TO YOUR LOCAL EMERGENCY ROOM, AND/OR CALL YOUR PHYSICIAN.
 ALL HEALTH AND HEALTH-RELATED INFORMATION IN [NAME] IS INTENDED TO BE GENERAL IN NATURE, PROVIDED SOLELY FOR AFBH PATIENT CONVENIENCE, AND IS NOT A SUBSTITUTE FOR A VISIT TO A LICENSED HEALTHCARE PROVIDER. PLEASE SEE YOUR PHYSICIAN, NOT [NAME], FOR ALL MEDICAL ADVICE AND CARE.**
 
-## **Table Of contents**
+### **Table Of contents**</br>
+Terms of Conditions
+Please Note
+Electronic Messaging and Enail Privacy
+Connevtivity to Personal Health and Other Technology
+Test Resuts 
+Online Payments
+Medical Disclaimer 
+Users Agreement
+Privacy Policy
+Termination of Agreement; Account Locks; Modifications or Discontinuation 
+Use of Content; Ownership
+No Warranties
+Limitation of Liability; Release; Indemnity; Equitable Relief; Time Limit on Claims
+Choice of Law; Jurisdiction and Venue
+Notices 
+Severability
+Cumulative Remedies; Waiver
+Your Agreement 
 
 #### **[NAME] Terms and Conditions**
 
@@ -86,7 +104,7 @@ You represent and warrant to us that:
 * you possess the legal right and ability to agree to these Terms and Conditions; and
 * all information you provide to us in connection with account setup and activation as well as your access and use of [NAME] is and will be complete and accurate.
 
-**Privacy Policy**</br> 
+**Privacy Policy**</br>
 When you use the [NAME], we will collect certain personal information from you, as set forth in more detail in our Privacy Policy, which is applicable to this Site and [NAME]. We may access and monitor your [NAME] usage, including to enforce these Terms and Conditions. We may need to provide you with certain communications relating to [NAME], such as service announcements and administrative messages, which are considered part of the [NAME] service and which you may not be able to opt-out from receiving.
 
 AFBH takes reasonable and appropriate steps to secure your medical information in [NAME]. We take no responsibility for, and disclaim any and all liability to you or anyone else resulting from, arising out of or in any way relating to or connected with, directly or indirectly, [NAME] confidentiality, privacy or security failures due in whole or in part to any act or omission by you or any third party, including without limitation not logging out of an active session; lost or stolen User Information; use of your [NAME] account from a publicly available computer or Internet kiosk (e.g. a computer in a public library or hotel business center; downloading, printing, publishing, reproducing, transcribing, storing, transmitting in any form or by any means (electronic, mechanical, photo reproduction, recordation or otherwise), redistributing or selling information from [NAME]; user computer settings or installed software products that may compromise information security; failure to maintain anti-virus software or regularly apply software updates on the user's computer; or any other acts, omission, events or circumstances outside AFBH’s direct control.
