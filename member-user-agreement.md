@@ -21,7 +21,7 @@ ALL HEALTH AND HEALTH-RELATED INFORMATION IN [NAME] IS INTENDED TO BE GENERAL IN
 [Medical Disclaimer](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#medical-disclaimer)</br> 
 [Users Agreement](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#users-agreement)</br>
 [Privacy Policy](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#privacy-policy)</br>
-Termination of Agreement; Account Locks; Modifications or Discontinuation 
+Termination of Agreement; Account Locks; Modifications or Discontinuation]( 
 Use of Content; Ownership
 No Warranties
 Limitation of Liability; Release; Indemnity; Equitable Relief; Time Limit on Claims
