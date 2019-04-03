@@ -29,7 +29,7 @@ ALL HEALTH AND HEALTH-RELATED INFORMATION IN [NAME] IS INTENDED TO BE GENERAL IN
 [Notices](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#notices)</br> 
 [Severability](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#severability)</br>
 [Cumulative Remedies; Waiver](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#cumulative-remedies-waiver)</br>
-Your Agreement 
+[Your Agreement](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#your-agreement)</br> 
 
 #### **[NAME] Terms and Conditions**
 
