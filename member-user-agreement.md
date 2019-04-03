@@ -19,7 +19,7 @@ ALL HEALTH AND HEALTH-RELATED INFORMATION IN [NAME] IS INTENDED TO BE GENERAL IN
 * View and pay your AFBH health bills online; and
 * Access other general health information that may be of interest to you on certain third party sites
 
-**Please note**:</br> 
+**Please note**: 
 [NAME] is not your complete medical record, nor is it your official AFBH medical record. You may request an official copy of or an amendment to your official AFBH medical record by contacting AFBH at the [details].
 
 By signing up for [NAME], you agree to comply with this Agreement and applicable law, rules and regulations. Your access to and use of [NAME] is subject to your agreement to these Terms and Conditions and such law, rules and regulations. The terms and conditions set forth in this Agreement may be viewed at any time by clicking the "Terms and Conditions" tab at the bottom of each page of the Site. In regard to [NAME] and this Site, where any provision(s) of this Agreement conflict with any other term, policy or condition published on or otherwise applicable to this Site or any other AFBH website, the relevant provision(s) of this Agreement shall control, prevail and be enforced.
@@ -28,7 +28,7 @@ This Agreement constitutes the entire agreement between AFBH and you pertaining 
 
 We have the right to modify this Agreement at any time, in our sole discretion. We will notify you when we modify this Agreement. You agree to re-review these Terms and Conditions and our Privacy Policy each time you receive notice of (or otherwise become aware of) these modifications. In general, modifications to these Terms and Conditions will not apply retroactively and will become effective no sooner than fourteen days after they are posted. However, modifications addressing new functions on [NAME], or made for legal reasons, will be effective on the date you are notified of them. Your continued use of [NAME] constitutes your acceptance of all of the modifications we have made. If you do not agree with our modifications to these Terms and Conditions or any of our changes to our Privacy Policy, you should discontinue your access and use of [NAME]. Neither the course of conduct between the parties nor trade practice shall act to modify any provision of this Agreement.
 
-**Electronic Messaging and Email Privacy**
+**Electronic Messaging and Email Privacy**</br>
 Certain portions of [NAME] permit you to securely exchange electronic messages and other information with AFBH healthcare providers. You should not use [NAME], including it's messaging functionality, for emergency or other urgent healthcare needs, or as a substitute for actual medical advice and care by a physician.
 
 We will respond to your messages in as timely a fashion as is reasonably possible. It is your sole responsibility to monitor your account for messages and other information and to respond and/or to act (or not) upon them in a timely and appropriate manner.
@@ -39,7 +39,7 @@ Though [NAME] message transmission may be secure, your messages may be viewed by
 
 You will receive an email notification when a new message or other information is available to you through [NAME]. You should then log in to [NAME] to view the message securely. Please note that any person with access to your e-mail will be able to see a notice from [NAME]. This could include your spouse, child, employer or anyone else that can access your e-mail account. It is your sole responsibility to carefully choose the email address you provide for use with your [NAME] account and to take any other necessary precautions to prevent others from gaining unwanted access to these notices, your email and other private, confidential or sensitive information therein.
 
-**Connectivity to Personal Health and Other Technology**
+**Connectivity to Personal Health and Other Technology**</br>
 You may choose to permit AFBH to connect [NAME] to certain electronic devices (such as your mobile phone, scales, fitness trackers, smartwatches, etc.), applications (such as food diaries, calorie counters, workout journals, etc) and other things you use (collectively, "personal technology"). Your permission would allow you to transmit to [NAME] and AFBH to access, obtain and receive certain information, including individually- identifying, personal, sensitive or confidential information, about you ("personal information" or "PI") from this personal technology. Your permission would also allow AFBH to place and store this PI in AFBH’s electronic health record, and also allow the use by, and its further disclosure by and to, AFBH and certain other people or organizations of this PI.
 
 You understand and acknowledge that AFBH is not and will not agree to be a party to any agreements or understandings you may have with third parties concerning any personal technology or PI described above. To the extent you choose to authorize AFBH to engage in any of the activities described in the preceding paragraph, you also warrant and represent that (i) you have the right to authorize AFBH to connect to personal technology and to access, obtain, receive, place, store, use and disclose PI for your treatment or other uses or disclosures as described in the Privacy Policy; (ii) you are the only authorized user of the personal technology transmitting only your PI through personal technology, and not that of any person or organization other than you; and (iii) none of the AFBH activities you authorize, otherwise violate or are inconsistent with any terms or conditions concerning the personal technology or any PI accessed, obtained or received in, from or through it.
@@ -48,13 +48,17 @@ You acknowledge and agree that any PI accessed, obtained or received in, from or
  
 You understand and acknowledge that AFBH neither owns nor controls any of your personal technology, and that AFBH accordingly makes no promises, warranties or representations, to you or anyone else, regarding either (i) the confidentiality, privacy, accuracy or completeness of PI accessed, obtained or received or from your personal technology or (ii) the security of any electronic connection to or transmission PI from your personal technology to AFBH. You understand, acknowledge and agree that you have a responsibility to review any PI in your [NAME] account and to contact your healthcare provider if you believe it is inaccurate or incomplete. If you do not want AFBH or others to obtain, receive, place store, view, use or disclose PI that is accessible in, from or through personal technology, you may disconnect your personal technology to [NAME].
 You agree to provide any and all information, and to enter into such further written agreements, as may be reasonably requested by AFBH in order to validate the acknowledgements, understandings, agreements, representations and warranties and to preserve AFBH’s rights as stated above.
-Test Results
+
+**Test Results**</br>
 You may use the [NAME] to view certain test results that are made available to you by your AFBH physician. Please note that not all test results are available via [NAME]. It is your sole responsibility to follow up with your physician to request, review and discuss any tests or test results, and to inquire with your physician if you do not see results of tests in [NAME] that you believe to have been done.
-Online Payments
+
+**Online Payments**</br>
 You may use [NAME] to view your AFBH billing statements online and make online payments online for healthcare services you receive from us. Please note that we use a third party to process the payments you make using the [NAME] service. You agree to comply with any terms and conditions of the third-party processor in connection with your use of such third-party processor services.
-Medical Disclaimer
+
+**Medical Disclaimer**</br>
 [NAME] constitutes neither the practice of any medical, nursing or other health profession nor the provision of health care or any other professional advice, diagnosis or treatment. The information in [NAME] is not your complete, official medical record, nor should it be relied on in any way for medical decision-making or to suggest a course of treatment for you or anyone else. If you have or suspect that you have a medical problem or condition, call your physician. Never disregard medical advice or delay in seeking it because of something you have read in [NAME].
-Users Agreement
+
+**Users Agreement**<br/>
 [NAME] is a voluntary offering from us, and you may elect to register for, or to not register for, a [NAME] account.
 You agree that you will:
     • comply with these Terms and Conditions and all applicable laws, rules and regulations governing your access and use of [NAME];
