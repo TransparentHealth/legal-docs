@@ -24,7 +24,7 @@ ALL HEALTH AND HEALTH-RELATED INFORMATION IN [NAME] IS INTENDED TO BE GENERAL IN
 [Termination of Agreement; Account Locks; Modifications or Discontinuation](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#termination-of-agreement-account-locks-modifications-or-discontinuation)</br>
 [Use of Content; Ownership](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#use-of-content-ownership)</br>
 [No Warranties](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#no-warranties)</br>
-Limitation of Liability; Release; Indemnity; Equitable Relief; Time Limit on Claims
+[Limitation of Liability; Release; Indemnity; Equitable Relief; Time Limit on Claims](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#limitation-of-liability-release-indemnity-equitable-relief-time-limit-on-claims)</br>
 Choice of Law; Jurisdiction and Venue
 Notices 
 Severability
