@@ -15,7 +15,7 @@ ALL HEALTH AND HEALTH-RELATED INFORMATION IN [NAME] IS INTENDED TO BE GENERAL IN
 [Terms of Conditions](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#table-of-contents)</br>
 [Please Note](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#please-note)</br>
 [Electronic Messaging and Enail Privacy](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#electronic-messaging-and-email-privacy)</br>
-Connevtivity to Personal Health and Other Technology
+[Connevtivity to Personal Health and Other Technology](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#connectivity-to-personal-health-and-other-technology)</br>
 Test Resuts 
 Online Payments
 Medical Disclaimer 
