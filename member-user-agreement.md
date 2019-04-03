@@ -28,7 +28,7 @@ ALL HEALTH AND HEALTH-RELATED INFORMATION IN [NAME] IS INTENDED TO BE GENERAL IN
 [Choice of Law; Jurisdiction and Venue](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#choice-of-law-jurisdiction-and-venue)</br>
 [Notices](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#notices)</br> 
 [Severability](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#severability)</br>
-Cumulative Remedies; Waiver
+[Cumulative Remedies; Waiver](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#cumulative-remedies-waiver)</br>
 Your Agreement 
 
 #### **[NAME] Terms and Conditions**
