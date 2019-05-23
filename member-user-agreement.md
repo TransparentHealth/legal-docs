@@ -1,45 +1,72 @@
-In addition to the end-user agreement, this content will cover extra information for a Member\beneficary.
-
-# **Alliance Share My Health TERMS & CONDITIONS**
-
+Share My Health TERMS & CONDITIONS for Members
+==============================================
 ## **Effective Date: [DATE]**
 
-The Alliance for Better Health (“Alliance”) electronic chart service ("Share My Health") is provided solely for the convenience of patients of Alliance. Your access to and use of Share My Health is subject to and governed by these Terms and Conditions of Use ("Terms and Conditions" or "Agreement") and applicable law, rules and regulations. Throughout this Agreement, Alliance is collectively referred to as “Alliance,” "we," or "us." Throughout this Agreement, users of Share My Health will be referred to as "you" or "Users".
+ ("Share My Health") is provided solely for the convenience of Member patients, by the Alliance for Better Health (“Alliance”) electronic chart service ("Share My Health").
 
-**Please read this Agreement and our** ("Privacy Policy") carefully before signing up for, accessing or using Share My Health. If you do not agree to these Terms and Conditions or our Privacy Policy, please exit the Share My Health site (the "Site").
+
+Information retrieved and transmited to 3rd parties with your approval y ShareMyHealth include:
+
+* HIV-related information
+* Mental health information
+* Genetic testing information
+* Sexually transmitted disease information
+* Reproductive health information, including abortion information
+* Alcohol and substance abuse treatment information
+* Conditions and Diagnosis
+* Medications
+* Insurance Infiormation
+* Personaly Identifieable Information
+
+
+
+Please read this Agreement and our [Privacy Policy](https://github.com/TransparentHealth/legal-docs/blob/master/privacy.md) carefully before signing up for, accessing or using Share My Health. If you do not agree to these Terms and Conditions or our Privacy Policy, please exit the Share My Health site (the "Site"). Please head the following:
+
+
+* After information is shared, it cannot be unshared. While furture access can be removed we remove data stored by 3rd partiues or 3rd party applications. Only share with those you trust.
+* Sharing is all-or-nothing.  You may not share only part of your health information
+* With personally identifiable information, such as name, removed, your health information may be used for research purposes.
+
+Your access to and use of Share My Health is subject to and governed by these Terms and Conditions of Use ("Terms and Conditions" or "Agreement") and applicable law, rules and regulations. Throughout this Agreement, Alliance is collectively referred to as “Alliance,” "we," or "us." Throughout this agreement, users of Share My Health will be referred to as "you" or "Users".
+ 
+ 
+ 
+ 
+
+
 
 **NEVER USE Share My Health FOR EMERGENCY OR OTHER URGENT MEDICAL ISSUES. IF YOU ARE EXPERIENCING A MEDICAL EMERGENCY OR NEED URGENT MEDICAL CARE, IMMEDIATELY CALL 911 (IF YOU ARE IN THE UNITED STATES), GO TO YOUR LOCAL EMERGENCY ROOM, AND/OR CALL YOUR PHYSICIAN.
 ALL HEALTH AND HEALTH-RELATED INFORMATION IN Share My Health IS INTENDED TO BE GENERAL IN NATURE, PROVIDED SOLELY FOR Alliance PATIENT CONVENIENCE, AND IS NOT A SUBSTITUTE FOR A VISIT TO A LICENSED HEALTHCARE PROVIDER. PLEASE SEE YOUR PHYSICIAN, NOT Share My Health, FOR ALL MEDICAL ADVICE AND CARE.**
 
-### **Table Of contents**</br>
-[Terms of Conditions](.#table-of-contents)</br>
-[Please Note](.#please-note)</br>
-[Electronic Messaging and Enail Privacy](.#electronic-messaging-and-email-privacy)</br>
-[Connevtivity to Personal Health and Other Technology](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#connectivity-to-personal-health-and-other-technology)</br>
-[Test Resuts](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#test-results)</br>
-[Online Payments](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#online-payments)</br>
-[Medical Disclaimer](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#medical-disclaimer)</br> 
-[Users Agreement](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#users-agreement)</br>
-[Privacy Policy](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#privacy-policy)</br>
-[Termination of Agreement; Account Locks; Modifications or Discontinuation](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#termination-of-agreement-account-locks-modifications-or-discontinuation)</br>
-[Use of Content; Ownership](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#use-of-content-ownership)</br>
-[No Warranties](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#no-warranties)</br>
-[Limitation of Liability; Release; Indemnity; Equitable Relief; Time Limit on Claims](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#limitation-of-liability-release-indemnity-equitable-relief-time-limit-on-claims)</br>
-[Choice of Law; Jurisdiction and Venue](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#choice-of-law-jurisdiction-and-venue)</br>
-[Notices](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#notices)</br> 
-[Severability](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#severability)</br>
-[Cumulative Remedies; Waiver](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#cumulative-remedies-waiver)</br>
-[Your Agreement](https://github.com/TransparentHealth/legal-docs/blob/master/member-user-agreement.md#your-agreement)</br> 
+# Table Of Contents
+[Terms of Conditions](#terms-and-conditions)
+[Please Note](#please-note)
+[Electronic Messaging and Enail Privacy](#electronic-messaging-and-email-privacy)</br>
+[Connevtivity to Personal Health and Other Technology](#connectivity-to-personal-health-and-other-technology)</br>
+[Test Resuts](#test-results)</br>
+[Online Payments](#online-payments)</br>
+[Medical Disclaimer](#medical-disclaimer)</br> 
+[Users Agreement](#users-agreement)</br>
+[Privacy Policy](#privacy-policy)</br>
+[Termination of Agreement; Account Locks; Modifications or Discontinuation](#termination-of-agreement-account-locks-modifications-or-discontinuation)</br>
+[Use of Content; Ownership](#use-of-content-ownership)</br>
+[No Warranties](#no-warranties)</br>
+[Limitation of Liability; Release; Indemnity; Equitable Relief; Time Limit on Claims](#limitation-of-liability-release-indemnity-equitable-relief-time-limit-on-claims)</br>
+[Choice of Law; Jurisdiction and Venue](#choice-of-law-jurisdiction-and-venue)</br>
+[Notices](#notices)</br> 
+[Severability](#severability)</br>
+[Cumulative Remedies; Waiver](#cumulative-remedies-waiver)</br>
+[Your Agreement](#your-agreement)</br> 
 
-#### **Share My Health Terms and Conditions**
+# Terms and Conditions
 
 Share My Health currently provides a convenient way for you to do the following, subject to these Terms and Conditions and applicable law, rules and regulations:
 * Have Web-based, end-user, read-only access to portions of your Alliance health information;
 * Use secure messaging to communicate with Alliance healthcare providers about your health; receive select lab results from your Alliance physician; review, make or cancel your Alliance health appointments, or request your prescription refills, subject to applicable law, rules and regulations and Alliance policies, procedures and other requirements;
-> * View and pay your Alliance health bills online; and
 * Access other general health information that may be of interest to you on certain third party sites
+* Access personaly identifieable information about you using the [Verify My Identity platform](https://verifymyidentity.com).
 
-#### **Please note**: 
+# Please Note:
 Share My Health is not your complete medical record, nor is it your official Alliance medical record. You may request an official copy of  or an amendment to your official Alliance medical record by contacting Alliance at the [details].
 
 By signing up for Share My Health, you agree to comply with this Agreement and applicable law, rules and regulations. Your access to and use of Share My Health is subject to your agreement to these Terms and Conditions and such law, rules and regulations. The terms and conditions set forth in this Agreement may be viewed at any time by clicking the "Terms and Conditions" tab at the bottom of each page of the Site. In regard to Share My Health and this Site, where any provision(s) of this Agreement conflict with any other term, policy or condition published on or otherwise applicable to this Site or any other Alliance website, the relevant provision(s) of this Agreement shall control, prevail and be enforced.
@@ -48,7 +75,7 @@ This Agreement constitutes the entire agreement between Alliance and you pertain
 
 We have the right to modify this Agreement at any time, in our sole discretion. We will notify you when we modify this Agreement. You agree to re-review these Terms and Conditions and our Privacy Policy each time you receive notice of (or otherwise become aware of) these modifications. In general, modifications to these Terms and Conditions will not apply retroactively and will become effective no sooner than fourteen days after they are posted. However, modifications addressing new functions on Share My Health, or made for legal reasons, will be effective on the date you are notified of them. Your continued use of Share My Health constitutes your acceptance of all of the modifications we have made. If you do not agree with our modifications to these Terms and Conditions or any of our changes to our Privacy Policy, you should discontinue your access and use of Share My Health. Neither the course of conduct between the parties nor trade practice shall act to modify any provision of this Agreement.
 
-#### **Electronic Messaging and Email Privacy**</br>
+# Electronic Messaging and Email Privacy
 Certain portions of Share My Health permit you to securely exchange electronic messages and other information with Alliance healthcare providers. You should not use Share My Health, including it's messaging functionality, for emergency or other urgent healthcare needs, or as a substitute for actual medical advice and care by a physician.
 
 We will respond to your messages in as timely a fashion as is reasonably possible. It is your sole responsibility to monitor your account for messages and other information and to respond and/or to act (or not) upon them in a timely and appropriate manner.
@@ -59,7 +86,7 @@ Though Share My Health message transmission may be secure, your messages may be 
 
 You will receive an email notification when a new message or other information is available to you through Share My Health. You should then log in to Share My Health to view the message securely. Please note that any person with access to your e-mail will be able to see a notice from Share My Health. This could include your spouse, child, employer or anyone else that can access your e-mail account. It is your sole responsibility to carefully choose the email address you provide for use with your Share My Health account and to take any other necessary precautions to prevent others from gaining unwanted access to these notices, your email and other private, confidential or sensitive information therein.
 
-#### **Connectivity to Personal Health and Other Technology**</br>
+# Connectivity to Personal Health and Other Technology
 You may choose to permit Alliance to connect Share My Health to certain electronic devices (such as your mobile phone, scales, fitness trackers, smartwatches, etc.), applications (such as food diaries, calorie counters, workout journals, etc) and other things you use (collectively, "personal technology"). Your permission would allow you to transmit to Share My Health and Alliance to access, obtain and receive certain information, including individually- identifying, personal, sensitive or confidential information, about you ("personal information" or "PI") from this personal technology. Your permission would also allow Alliance to place and store this PI in Alliance’s electronic health record, and also allow the use by, and its further disclosure by and to, Alliance and certain other people or organizations of this PI.
 
 You understand and acknowledge that Alliance is not and will not agree to be a party to any agreements or understandings you may have with third parties concerning any personal technology or PI described above. To the extent you choose to authorize Alliance to engage in any of the activities described in the preceding paragraph, you also warrant and represent that (i) you have the right to authorize Alliance to connect to personal technology and to access, obtain, receive, place, store, use and disclose PI for your treatment or other uses or disclosures as described in the Privacy Policy; (ii) you are the only authorized user of the personal technology transmitting only your PI through personal technology, and not that of any person or organization other than you; and (iii) none of the Alliance activities you authorize, otherwise violate or are inconsistent with any terms or conditions concerning the personal technology or any PI accessed, obtained or received in, from or through it.
@@ -69,13 +96,12 @@ You acknowledge and agree that any PI accessed, obtained or received in, from or
 You understand and acknowledge that Alliance neither owns nor controls any of your personal technology, and that Alliance accordingly makes no promises, warranties or representations, to you or anyone else, regarding either (i) the confidentiality, privacy, accuracy or completeness of PI accessed, obtained or received or from your personal technology or (ii) the security of any electronic connection to or transmission PI from your personal technology to Alliance. You understand, acknowledge and agree that you have a responsibility to review any PI in your Share My Health account and to contact your healthcare provider if you believe it is inaccurate or incomplete. If you do not want Alliance or others to obtain, receive, place store, view, use or disclose PI that is accessible in, from or through personal technology, you may disconnect your personal technology to Share My Health.
 You agree to provide any and all information, and to enter into such further written agreements, as may be reasonably requested by Alliance in order to validate the acknowledgements, understandings, agreements, representations and warranties and to preserve Alliance’s rights as stated above.
 
-#### **Test Results**</br>
+# Test Results
 You may use the Share My Health to view certain test results that are made available to you by your Alliance physician. Please note that not all test results are available via Share My Health. It is your sole responsibility to follow up with your physician to request, review and discuss any tests or test results, and to inquire with your physician if you do not see results of tests in Share My Health that you believe to have been done.
 
-#### **Online Payments**</br>
-You may use Share My Health to view your Alliance billing statements online and make online payments online for healthcare services you receive from us. Please note that we use a third party to process the payments you make using the Share My Health service. You agree to comply with any terms and conditions of the third-party processor in connection with your use of such third-party processor services.
 
-#### **Medical Disclaimer**</br>
+
+# Medical Disclaimer
 Share My Health constitutes neither the practice of any medical, nursing or other health profession nor the provision of health care or any other professional advice, diagnosis or treatment. The information in Share My Health is not your complete, official medical record, nor should it be relied on in any way for medical decision-making or to suggest a course of treatment for you or anyone else. If you have or suspect that you have a medical problem or condition, call your physician. Never disregard medical advice or delay in seeking it because of something you have read in Share My Health.
 
 #### **Users Agreement**</br>
@@ -104,27 +130,27 @@ You represent and warrant to us that:
 * you possess the legal right and ability to agree to these Terms and Conditions; and
 * all information you provide to us in connection with account setup and activation as well as your access and use of Share My Health is and will be complete and accurate.
 
-#### **Privacy Policy**</br> 
+# Privacy Policy
 When you use the Share My Health, we will collect certain personal information from you, as set forth in more detail in our Privacy Policy, which is applicable to this Site and Share My Health. We may access and monitor your Share My Health usage, including to enforce these Terms and Conditions. We may need to provide you with certain communications relating to Share My Health, such as service announcements and administrative messages, which are considered part of the Share My Health service and which you may not be able to opt-out from receiving.
 
 Alliance takes reasonable and appropriate steps to secure your medical information in Share My Health. We take no responsibility for, and disclaim any and all liability to you or anyone else resulting from, arising out of or in any way relating to or connected with, directly or indirectly, Share My Health confidentiality, privacy or security failures due in whole or in part to any act or omission by you or any third party, including without limitation not logging out of an active session; lost or stolen User Information; use of your Share My Health account from a publicly available computer or Internet kiosk (e.g. a computer in a public library or hotel business center; downloading, printing, publishing, reproducing, transcribing, storing, transmitting in any form or by any means (electronic, mechanical, photo reproduction, recordation or otherwise), redistributing or selling information from Share My Health; user computer settings or installed software products that may compromise information security; failure to maintain anti-virus software or regularly apply software updates on the user's computer; or any other acts, omission, events or circumstances outside Alliance’s direct control.
 
-#### **Termination of Agreement; Account Locks, Modifications or Discontinuation**</br> 
+# Termination of Agreement; Account Locks, Modifications or Discontinuation
 You may terminate this Agreement at any time upon notice to us but then you will have no Share My Health access and your account will be terminated. Share My Health is provided as a patient convenience, and we reserve the right, at any time and without notice or cause, to terminate this Agreement, and/or to temporarily or permanently modify or discontinue the service and/or your account or access, in whole or in part. In addition, we reserve the right, at any time and without notice or cause, to terminate this Agreement, and/or temporarily or permanently lock, modify or discontinue your Share My Health account or access. We shall not be liable to you or any third party for any such termination, lock, modification or discontinuance. In the event of the expiration or termination of this Agreement for any reason, all provisions that are intended to survive termination or expiration of this Agreement shall survive, including, but not limited to, Alliance’s rights and remedies hereunder and your duties, obligations and other responsibilities with regard to the Share My Health service.
 
-#### **Use of Content; Ownership**</br>
+# Use of Content; Ownership
 The entire contents of Share My Health constitute a collective work protected under the copyright laws of United States and other federal and state laws. As between Alliance and you, Alliance holds the copyright and all other property rights and interests in the collective work. The collective work includes works that are the property of our respective suppliers, licensors, and other content providers (collectively, "Content Providers") licensed to Alliance, which works and property are protected by copyright and other intellectual property laws, and well as other works and all data, information or other materials, including any Alliance medical records, provided or accessible using Share My Health, in which Alliance owns all rights, title and interest. Subject to any restrictions or limitations relating to specific material, you are hereby granted a limited non-exclusive right to use Share My Health for Web-based, read-only, end-user access to portions of your Alliance information, to the extent made available in accordance with applicable law and at the discretion of your Alliance physician, solely for your own personal, noncommercial purposes, unless otherwise prohibited herein or here under. You agree not to change or delete any proprietary notices from materials downloaded or printed from Share My Health. Unauthorized use of the content may violate copyright, trademark, and other laws. You shall not reverse-engineer, disassemble, decompile, download, print, publish, reproduce, transcribe, store in a retrieval system, translate into any language or computer language, re-transmit in any form or by any means (electronic, mechanical, photo reproduction, recordation or otherwise), redistribute, sell, resell or otherwise put to commercial use of any the content or any copyrighted material or any other works or data, information or other materials located in or provided or accessible through Share My Health. You shall not use any robot, spider, other automated device, or manual process, or any third party to do any of the foregoing without the express prior written consent of Alliance and any third party owner(s). We (and they) reserve the right to investigate and take appropriate civil and/or criminal legal action with respect to any actual or alleged violation of the foregoing or other infringement upon the intellectual property rights of us, our suppliers or licensors.
 
 Any intellectual property or other property rights not expressly granted to you pursuant to these Terms and Conditions are hereby reserved by Alliance.
 
-#### **No Warranties**</br>
+# No Warranties
 YOU ACKNOWLEDGE AND AGREE THAT THE ACCESS GRANTED BY Alliance HEREUNDER IS WEB-BASED, READ-ONLY, END-USER ACCESS TO THE Share My Health SERVICE SOLELY FOR YOUR CONVENIENCE AND FOR THE LIMITED PURPOSES DESCRIBED HEREIN. Share My Health IS THEREFORE PROVIDED ON AN "AS IS" BASIS ONLY, WITH NO WARRANTY OF ANY KIND AS TO Share My Health OR WITH RESPECT TO ANY INFORMATION, PRODUCTS, SERVICES, PRODUCTS OR MATERIALS ACCESSIBLE OR PROVIDED ON OR THROUGH Share My Health, AND ALL ACCESS TO, AND/OR USE OR FURTHER DISCLOSURE OF ANY OF THE FOREGOING IS ENTIRELY AT YOUR OWN RISK. Alliance DOES NOT MAKE AND, TO THE FULLEST EXTENT PERMITTED BY LAW, HEREBY DISCLAIMS ANY AND ALL WARRANTIES OR GUARANTEES, PURSUANT TO STATUTORY OR COMMON LAW, EXPRESS OR IMPLIED, IN OR UNDER THIS AGREEMENT, INCLUDING WITHOUT LIMITATION THAT MY Share My Health OR THE INFORMATION OR MATERIALS ACCESSIBLE OR LOCATED IN OR PROVIDED THROUGH Share My Health WILL BE ERROR-FREE, OR AS TO EASE OF OR SECURE, TIMELY OR CONTINUOUS ACCESS TO, OR AS TO FREEDOM FROM ANY POSSIBLE CONSEQUENCES SUCH AS LOSS OF DATA OR VIRUSES OR ANY OTHER CONTAMINATION, OR DESTRUCTIVE SOFTWARE OR PROGRAMS OR CODE ARISING FROM OR IN CONNECTION WITH SUCH ACCESS TO OR USE OF, OR OTHERWISE AS TO MERCHANTABILITY, ACCURACY, COMPLETENESS, COMPLETENESS, ADEQUACY, TIMELINESS, USEFULNESS, NON-INFRINGEMENT OR FITNESS FOR ANY PARTICULAR PURPOSE OF, Share My Health, ANY INFORMATION OR MATERIALS ACCESSIBLE OR PROVIDED ON OR THROUGH SUCH, OR ANY OTHER EQUIPMENT, SYSTEMS, SOFTWARE, CLINICAL RECORDS OR OTHER DATA MADE ACCESSBLE OR PROVIDED HEREUNDER.
 
 YOUR ACCESS USE OF Share My Health IS SOLELY AT YOUR DISCRETION. YOU SOLELY ASSUME ALL RISKS ASSOCIATED WITH SUCH AND USE OF Share My Health, ANY INFORMATION OR MATERIALS ACCESSIBLE OR PROVIDED ON OR THROUGH SUCH, AS WELL AS OF RELATED OR LINKED SITES, PRODUCTS OR SERVICES, INCLUDING WITHOUT LIMITATION THE RISKS OF DATA ERROR, CORRUPTION, LOSS, INTRUSION, UNAUTHORIZED ACCESS, USE OR DISCLOSURE, FAILURE OR DELAY, OR INTERRUPTION.
 
 NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY Alliance OR Alliance’S AUTHORIZED REPRESENTATIVES SHALL CREATE A WARRANTY, OR ANY REPSONSIBILITY OR LIABILITY FOR Alliance, AS TO ANY OF THE FOREGOING.
 
-#### **Limitation of Liability; Release; Indemnity; Equitable Relief; Time Limit on Claims**</br>
+# Limitation of Liability; Release; Indemnity; Equitable Relief; Time Limit on Claims
 You, on your own behalf and that of any other person or entity who may claim by or through you or on your behalf, as well as on behalf of any person or entity accessing the Site using your account or password, agree that neither we, our affiliates, parent or subsidiary corporations or organizations, nor our or their officers, trustees, directors, employees contractors or agents, nor any Content Providers, nor our and their successors and assigns, shall have any responsibility or liability to you or anyone else, under any theory of liability (including but not limited to claims based upon negligence), under this Agreement or otherwise in connection with your use of Share My Health, the information or material contained in or accessible, provided or obtained through Share My Health or any decision made or not made or action taken or not taken based in whole or in part upon such information or material. Except as otherwise prohibited by law, in no circumstances will Alliance be responsible or liable to you or anyone else for any indirect, special, incidental, consequential, exemplary, punitive or any other damages of any such type, regardless of the legal theory under which such damages are sought (including but not limited to claims based upon negligence), arising under, in connection with or otherwise relating to this Agreement or otherwise in connection with your use of Share My Health, the information or material contained in or accessible, provided or obtained through Share My Health, or any decision made or not made or action taken or not taken based in whole or in part upon such information or material, even if informed of the possibility of such damages. Your sole and exclusive remedy for your dissatisfaction with Share My Health or your disagreement with these Terms and Conditions will be to stop using Share My Health.
 
 To the maximum extent permitted by applicable law, you, on your own behalf and that of any other person or entity who may claim by or through you or on your behalf, as well as on behalf of any person or entity accessing the Site using your account or password, hereby release and forever waive any and all claims you may have against us, or our affiliates, parent or subsidiary corporations or organizations, or our or their officers, trustees, directors, employees contractors or agents, or any Content Providers, or our and their successors and assigns, under any theory of liability (including but not limited to claims based upon negligence), for any and all liabilities, losses, damages, injuries, fines, penalties, costs and expenses (including, without limitation, reasonable attorneys' fees and other legal costs or expenses), of every kind and nature, arising out of, relating to or otherwise in any way connected with, directly or indirectly, this Agreement or otherwise in connection with your use of Share My Health, the information or material contained in or accessible, provided or obtained through Share My Health, or any decision made or not made or action taken or not taken based in whole or in part upon such information or material. All rights under Section 1542 of the California Civil Code (if you are a resident of the State of California) and any similar law, statute, or regulation of any State or Territory of the United States or other nation are hereby expressly waived. California Civil Code Section 1542 reads as follows: A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR.
@@ -135,20 +161,20 @@ You acknowledge that the recovery or threatened breach of damages, indemnities o
 
 ANY CLAIM OR CAUSE OF ACTION, REGARDLESS OF THEORY, BROUGHT BY YOU (OR ANYONE CLAIMING BY OR THROUGH YOU OR ON YOUR BEHALF) AND ARISING ACCESS OR OUT OF OR RELATING TO OR OTHERWISE IN CONNECTION WITH THIS AGREEMENT, INCLUDING WITHOUT LIMITATION WITH RESPECT TO YOUR USE OF Share My Health, MUST BE BROUGHT WITHIN ONE (1) YEAR AFTER THE DATE OF THE OCCURRENCE OF THE EVENT (OR, IF A SERIES OF EVENTS, THE FIRST EVENT IN SUCH SERIES) GIVING RISE TO THE CLAIM OR CAUSE OF ACTION OR SUCH CLAIM OR CAUSE OF ACTION SHALL BE FOREVER BARRED.
 
-#### **Choice of Law, Jurisdiction and Venue**</br>
+# Choice of Law, Jurisdiction and Venue
 These Terms and Conditions are entered into in the State of [STATE] and shall be governed by and construed in accordance with the laws of the State of [STATE], exclusive of its choice of law rules. You agree to submit to the exclusive jurisdiction of the state and federal courts sitting in [COUNTY], [STATE] for any dispute with or claim against Alliance arising out of, in connection with or otherwise relating to this Agreement, and you hereby waive any jurisdictional, venue, or inconvenient forum objections to such courts. In any action to enforce these Terms and Conditions, the prevailing party will be entitled to costs and attorney fees.
 
 Use of Share My Health is not authorized in any jurisdiction that does not give effect to the terms and conditions set forth herein.
 
-We and this Site are located and operated in the State of [STATE], United States; this site and Share My Health are intended for use only by our patients who are residents of the United States; and we follow the laws of the United States and the State of [STATE] a with regard to the operation of the site and Share My Health, including the laws of the United States and the State of [STATE] relating to use and protection of personally identifiable data and protected health information. We will not be held to laws or standards of other jurisdictions other than those of the United States and the State of [STATE].
+We and this Site are located and operated in the State of New York, United States; this site and Share My Health are intended for use only by our patients who are residents of the United States; and we follow the laws of the United States and the State of [STATE] a with regard to the operation of the site and Share My Health, including the laws of the United States and the State of [STATE] relating to use and protection of personally identifiable data and protected health information. We will not be held to laws or standards of other jurisdictions other than those of the United States and the State of [STATE].
 
-#### **Notices**</br>
+# Notices
 Alliance may deliver notice to you under this Agreement by means of electronic mail, a general notice on this Site or [SITE].org, or by written communication delivered by hand, by first class U.S. mail or by other nationally-recognized courier (eg, UPS, Fedex) to your address on record in Alliance’s account information. Notices to Alliance shall be delivered by hand, by first class U.S. mail or by other nationally-recognized courier (eg, UPS, Fedex) to: [CONTACT DETAILS].
 
-#### **Severability**</br>
+# Severability
 In the event that any of the Terms and Conditions are held by a court or other tribunal of competent jurisdiction to be unenforceable, such provisions shall be limited or eliminated to the minimum extent necessary so that these Terms and Conditions shall otherwise remain in full force and effect.
 
-#### **Cumulative Remedies; Waiver**</br>
+# Cumulative Remedies; Waiver
 All of our rights and remedies provided in this Agreement are cumulative and not exclusive of any other rights or remedies that may be available to us hereunder or otherwise at law or equity. Further, any failure on our part to act with respect to a violation by you or others of these Terms and Conditions does not waive our right to act with respect to subsequent or similar violations.
 
 #### **Your Agreement**</br> 
