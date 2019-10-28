@@ -1,5 +1,5 @@
-Share My Health TERMS & CONDITIONS for Members
-==============================================
+Share My Health: Terms and Conditions for Member
+===============================================
 ## **Effective Date: [DATE]**
 
  ("Share My Health") is provided solely for the convenience of Member patients, by the Alliance for Better Health (“Alliance”) electronic chart service ("Share My Health").
@@ -44,19 +44,18 @@ ALL HEALTH AND HEALTH-RELATED INFORMATION IN Share My Health IS INTENDED TO BE G
 [Electronic Messaging and Enail Privacy](#electronic-messaging-and-email-privacy)</br>
 [Connevtivity to Personal Health and Other Technology](#connectivity-to-personal-health-and-other-technology)</br>
 [Test Resuts](#test-results)</br>
-[Online Payments](#online-payments)</br>
-[Medical Disclaimer](#medical-disclaimer)</br> 
-[Users Agreement](#users-agreement)</br>
-[Privacy Policy](#privacy-policy)</br>
-[Termination of Agreement; Account Locks; Modifications or Discontinuation](#termination-of-agreement-account-locks-modifications-or-discontinuation)</br>
-[Use of Content; Ownership](#use-of-content-ownership)</br>
-[No Warranties](#no-warranties)</br>
-[Limitation of Liability; Release; Indemnity; Equitable Relief; Time Limit on Claims](#limitation-of-liability-release-indemnity-equitable-relief-time-limit-on-claims)</br>
-[Choice of Law; Jurisdiction and Venue](#choice-of-law-jurisdiction-and-venue)</br>
-[Notices](#notices)</br> 
-[Severability](#severability)</br>
-[Cumulative Remedies; Waiver](#cumulative-remedies-waiver)</br>
-[Your Agreement](#your-agreement)</br> 
+
+[Medical Disclaimer](#medical-disclaimer)
+[Users Agreement](#users-agreement)
+[Termination of Agreement; Account Locks; Modifications or Discontinuation](#termination-of-agreement-account-locks-modifications-or-discontinuation)
+[Use of Content; Ownership](#use-of-content-ownership)
+[No Warranties](#no-warranties)
+[Limitation of Liability; Release; Indemnity; Equitable Relief; Time Limit on Claims](#limitation-of-liability-release-indemnity-equitable-relief-time-limit-on-claims)
+[Choice of Law; Jurisdiction and Venue](#choice-of-law-jurisdiction-and-venue)
+[Notices](#notices)
+[Severability](#severability)
+[Cumulative Remedies; Waiver](#cumulative-remedies-waiver)
+[Your Agreement](#your-agreement)
 
 # Terms and Conditions
 

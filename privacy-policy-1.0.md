@@ -1,6 +1,6 @@
 ShareMyHealth Privacy Policy
 ============================
-Share My Health (“Share My Health” or the “Service”), takes very seriously its obligation to protect the confidentiality of, and to limit the uses and disclosure of, your Personal Information. This Privacy Policy lets you know:
+Share My Health ("Share My Health" or the "Service"), takes very seriously its obligation to protect the confidentiality of, and to limit the uses and disclosure of, your Personal Information. This Privacy Policy lets you know:
 
 * what information your Service Providers collect and how that information is used;
 * what additional information you can provide to take advantage of the Service;
