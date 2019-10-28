@@ -2,7 +2,7 @@ Share My Health: Terms of Service for Member
 ============================================
 ## **Effective Date: October 28,  2019**
 
- ("Share My Health") is provided solely for the convenience of Member patients, by the Alliance for Better Health (“Alliance”) electronic chart service ("Share My Health").
+("Share My Health") is provided solely for the convenience of Member patients, by the Alliance for Better Health (“Alliance”) electronic chart service ("Share My Health").
 
 
 Information retrieved and transmited to 3rd parties with your approval y ShareMyHealth include:
@@ -19,7 +19,6 @@ Information retrieved and transmited to 3rd parties with your approval y ShareMy
 * Personaly Identifieable Information
 
 
-
 Please read this Agreement and our [Privacy Policy](http://sharemy.health/privacy-policy-1.0.html) carefully before signing up for, accessing or using Share My Health. If you do not agree to these Terms and Conditions or our Privacy Policy, please exit the Share My Health site (the "Site"). Please head the following:
 
 
@@ -28,11 +27,6 @@ Please read this Agreement and our [Privacy Policy](http://sharemy.health/privac
 * With personally identifiable information, such as name, removed, your health information may be used for research purposes.
 
 Your access to and use of Share My Health is subject to and governed by these Terms and Conditions of Use ("Terms and Conditions" or "Agreement") and applicable law, rules and regulations. Throughout this Agreement, Alliance is collectively referred to as “Alliance,” "we," or "us." Throughout this agreement, users of Share My Health will be referred to as "you" or "Users".
- 
- 
- 
- 
-
 
 
 **NEVER USE Share My Health FOR EMERGENCY OR OTHER URGENT MEDICAL ISSUES. IF YOU ARE EXPERIENCING A MEDICAL EMERGENCY OR NEED URGENT MEDICAL CARE, IMMEDIATELY CALL 911 (IF YOU ARE IN THE UNITED STATES), GO TO YOUR LOCAL EMERGENCY ROOM, AND/OR CALL YOUR PHYSICIAN.
