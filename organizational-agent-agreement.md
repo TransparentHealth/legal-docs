@@ -1,6 +1,10 @@
-In addition to the Member Agreement, Privacy Policy, these additional Terms and Conditions apply to Organization Agents defined as  working on behalf of an organization.
+In addition to the Privacy Policy, these additional Terms and Conditions apply to Organization Agents defined as  working on behalf of an organization.
 
 
+* Agent has completed training.  
+* Agent has a working relationship with the organization.
+
+Agent Code of Conduct
 * Agent will have access to PHI and should not use the information for just any purpose.
 * Agent may have the right to perform Ientity verification and agrees to perform these duties correctly.
 * Agent may update Member data and must not abuse this ability.
